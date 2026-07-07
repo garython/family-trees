@@ -4,163 +4,150 @@
 
 | # | Name | Spouse | Spouse Name | Status | Notes |
 |---|------|--------|-------------|--------|-------|
-| 1 | Ammani | H | Narayanan | Passed away | Ammani died in 1998 |
-| 2 | Ramany | H | Gopi | Living | - |
+| 1 | Ammani | H | Narayanan | Both passed away | Ammani died in 1998 |
+| 2 | Ramany | H | Gopi | Living | Gopi: Professor, University of Guelph, Ontario |
 | 3 | Saraswathi (Sarasu) | H | Unni | Living | - |
-| 4 | Raji | H | Omanakuttan | Passed away | - |
-| 5 | Ambika | H | Bhaskara | Living | - |
+| 4 | Raji | H | Omanakuttan | Both passed away | - |
+| 5 | Ambika | H | Bhaskaran | Living | - |
 | 6 | Raju | W | Latha | Living | - |
-| 7 | Renjith (Renju) | W | Meera | Living | - |
+| 7 | Renjith (Renju) | W | Meera | Living | Meera: Clerk in Medical College |
 
 ## Generation 2: Children
 
-### Sarasu & Unni's Family
+### #1 Ammani & Narayanan
 
-| Child | Spouse | Spouse Name | Location | Notes |
-|-------|--------|-------------|----------|-------|
-| Renuka | H | Manoj | - | Employer: Veda5 |
-| Chitra | H | Krishnadas | Guruvayoor | Spouse works in Oman |
+Children unknown — to be added.
 
-### Raji (Late) & Omanakuttan (Late)
+### #2 Ramany & Gopi
 
 | Child | Spouse | Spouse Name | Notes |
 |-------|--------|-------------|-------|
-| Manjasha | H | Haridas | Teacher; Spouse works in Kuwait |
-| Manoj | W | Swati | - |
+| Raghesh (Tutu) | - | - | Passed away (19??); came to Canada in 1986 while in Year 4 |
+| Surya | H | Manish | - |
+| Vasanth (Vas) | W | Adrianne | See Adrianne's extended family below |
 
-### Ambika & Bhaskaran
+#### Ramany & Gopi — Timeline
+
+| Year | Event |
+|------|-------|
+| 1981 | Gopi came to Washington DC university as postdoc; had health issues, returned to India |
+| 1982 | Gopi returned to the US |
+| 1983 | Ramany came to the US to join Gopi |
+| 1984 | Moved to Waterloo, Ontario; Gopi took postdoc position at University of Guelph |
+| 1984–2009 | Gopi worked in research on contract; lived in a townhouse near Conestoga Mall |
+| Early 2000s | Bought house on Eastbridge Boulevard |
+| 2009 | Gopi got term position as Professor at University of Guelph |
+
+### #3 Sarasu & Unni
+
+| Child | Spouse | Spouse Name | Location | Notes |
+|-------|--------|-------------|----------|-------|
+| Renuka | H | Manoj | - | Renuka works at Veda5 |
+| Chitra | H | Krishnadas | Guruvayoor | Krishnadas works in Oman |
+
+### #4 Raji (Late) & Omanakuttan (Late)
+
+| Child | Spouse | Spouse Name | Notes |
+|-------|--------|-------------|-------|
+| Manjasha | H | Haridas | Manjasha: Teacher; Haridas works in Kuwait |
+| Manoj | W | Swati | Not to be confused with Renuka's husband Manoj |
+
+### #5 Ambika & Bhaskaran
 
 | Child | Spouse | Spouse Name | Notes |
 |-------|--------|-------------|-------|
 | Abhi | W | Divya | Works on oil rig in Indonesia |
-| Anish | W | Reshma | Works on oil rig in Brunei; Spouse is Teacher |
+| Anish | W | Reshma | Works on oil rig in Brunei; Reshma: Teacher |
 
-### Raju & Latha
+### #6 Raju & Latha
 
 | Child | Spouse | Spouse Name | Notes |
 |-------|--------|-------------|-------|
-| Sreejith | W | Kajal | Spouse from Nagpur |
+| Sreejith | W | Kajal | Kajal is from Nagpur |
 | Sreejesh | - | - | PhD in Astrology |
-| Seehari | - | - | Cloth shop |
+| Seehari | - | - | Runs a cloth shop |
 
-### Renjith (Renju) & Meera
+### #7 Renjith (Renju) & Meera
 
-| Child | Spouse | Spouse Name | Notes |
-|-------|--------|-------------|-------|
-| Ajay | GF | Abhirami (Aami) | In Canada; Works for Toyota; GF works in social service (handicap home) |
-| Ajith | - | - | Was in IT; Changing profession |
-| Anjitha | - | - | Girl; Studying for nursing |
-
-**Meera's Profession:** Clerk in Medical College
-
-### Ramany & Gopi
-
-| Child | Spouse | Spouse Name | Notes |
-|-------|--------|-------------|-------|
-| Raghesh (Tutu) | - | - | Passed away (19??); Came to Canada in 1986 (Year 4) |
-| Surya | H | Manish | - |
-| Vasanth (Vas) | W | Adrianne | - |
-
-**Gopi's Profession:** Professor at University of Guelph, Ontario
-
-#### Timeline & Life History
-
-| Year | Event |
-|------|-------|
-| 1981 | Gopi came to Washington DC University as postdoc |
-| 1981-82 | Gopi had health issues, returned to India |
-| 1982 | Gopi came back to US |
-| 1983 | Ramany came to US to join Gopi |
-| 1984 | Moved to Waterloo, Ontario; Gopi took postdoc position at University of Guelph |
-| 1984-2009 | Gopi worked on research contracts |
-| ~1990s | Lived near Conestoga Mall in a townhouse |
-| Early 2000s | Bought house on Eastbridge Boulevard |
-| 2009 | Gopi achieved tenure, became Professor at University of Guelph |
+| Child | Partner | Partner Name | Notes |
+|-------|---------|--------------|-------|
+| Ajay | GF | Abhirami (Aami) | In Canada, works for Toyota; Aami works in social service at a handicap home |
+| Ajith | - | - | Was in IT; changing profession |
+| Anjitha | - | - | Studying nursing |
 
 ## Generation 3: Grandchildren
 
-### Manoj & Renuka's Children
+### Surya & Manish (via Ramany)
+
+| Name | Born | Notes |
+|------|------|-------|
+| Anushka | June 6, 2014 | Daughter |
+
+### Vasanth & Adrianne (via Ramany)
+
+| Name | Born | Notes |
+|------|------|-------|
+| Rowen | December 31, 2015 | Daughter |
+
+### Renuka & Manoj (via Sarasu)
 
 | Name | Year/Grade | Notes |
 |------|-----------|-------|
-| Ananthu | BBA | Studying at Bethany College |
+| Ananthu | BBA | Bethany College |
 | Gokul | Year 7 | School |
 
-### Krishnadas & Chitra's Children
+### Chitra & Krishnadas (via Sarasu)
 
 | Name | Year/Grade | Notes |
 |------|-----------|-------|
 | Shri Lakshmi | Year 6 | School |
 | Shri Nanda | Year 3 | School |
 
-### Haridas & Manjasha's Children
+### Manjasha & Haridas (via Raji)
 
 | Name | Notes |
 |------|-------|
-| Harshid | Child |
-| Hridith | Child |
+| Harshid | - |
+| Hridith | - |
 
-### Manoj & Swati's Children
+### Manoj & Swati (via Raji)
 
-| Name | Notes |
-|------|-------|
-| Newborn Baby | Born 2026 |
+| Name | Born | Notes |
+|------|------|-------|
+| Baby | 2026 | Name to be added |
 
-### Abhi & Divya's Children
+### Abhi & Divya (via Ambika)
 
 | Name | Year/Grade | Notes |
 |------|-----------|-------|
-| Adwit | - | Child |
-| Adidev | Year 4 | School |
+| Adwit | - | Boy |
+| Adidev | Year 4 | Boy |
 
-### Anish & Reshma's Children
-
-| Name | Age | Notes |
-|------|-----|-------|
-| Amaya | 2 years | Child |
-
-### Sreejith & Kajal's Children
+### Anish & Reshma (via Ambika)
 
 | Name | Age | Notes |
 |------|-----|-------|
-| Vaidehi | Born 2026 | Daughter |
+| Amaya | 2 years | Reported as 2 kids — second child's name to be confirmed |
 
-### Ajay & Abhirami (Aami) - Girlfriend
+### Sreejith & Kajal (via Raju)
 
-Not yet married; Relationship in progress.
+| Name | Born | Notes |
+|------|------|-------|
+| Vaidehi | 2026 | Daughter |
 
-### Manish & Surya's Children
+## Extended Family: Adrianne's Family (Vasanth's in-laws)
 
-| Name | DOB | Notes |
-|------|-----|-------|
-| Anushka | June 6, 2014 | Daughter |
-
-### Adrianne & Vasanth's Children
-
-| Name | DOB | Notes |
-|------|-----|-------|
-| Rowen | December 31, 2015 | Daughter |
-
-## Extended Family: Adrianne's Family
-
-**Parents:**
-- Paul
-- Henriette
+**Parents:** Paul and Henriette
 
 **Siblings:**
-- **Laura** married to Clarence (live in Edmonton)
+- **Laura**, married to Clarence — live in Edmonton
   - 2 daughters: Gabby (elder), Tiana (younger)
-- **Eric** married to Kim (live in Toronto)
-  - Profession: Media production
+- **Eric**, married to Kim — live in Toronto
+  - Eric works in media production
 
-## Notes
+## Open Items
 
-- Ammani (Sibling #1): Married to Narayanan; Both passed away. Ammani died in 1998.
-- Raji & Omanakuttan: Both passed away
-- Raghesh (Ramany's son): Passed away in 19?? (year unknown); Emigrated to Canada in 1986
-- Sarasu's daughters mapped with complete family details
-- Raji's children mapped with grandchildren info
-- Ambika's sons mapped (working abroad on oil rigs)
-- Raju's 3 sons mapped (Sreejesh has PhD in Astrology, Seehari owns cloth shop)
-- Renjith's 3 children mapped (Ajay in Canada, working on career change for Ajith)
-- **All 7 siblings and their families now mapped** - Paliyath Generation 1 complete
+- Ammani & Narayanan's children — unknown
+- Raghesh's year of death — 19?? (year unknown)
+- Anish & Reshma's second child — name/age needed
+- Manoj & Swati's 2026 baby — name needed
