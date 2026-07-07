@@ -123,9 +123,7 @@ No children.
 
 ### Manoj & Swati (via Raji)
 
-| Name | Born | Notes |
-|------|------|-------|
-| Baby | 2026 | Name to be added |
+Expecting first child (pregnant as of mid-2026).
 
 ### Abhi & Divya (via Ambika)
 
@@ -164,5 +162,5 @@ Girish (maintainer of this tree) is Manish's brother — connected via Surya (Ra
 
 - Sibling birth years — not known
 - Raghesh's year of death — not known clearly at this time
-- Manoj & Swati's 2026 baby — name needed
+- Manoj & Swati expecting first child (as of mid-2026) — update on arrival
 - Narayanan's (Ammani's husband) year of death — unknown
