@@ -2,15 +2,15 @@
 
 ## Generation 1: Siblings
 
-| # | Name | Spouse | Spouse Name | Status |
-|---|------|--------|-------------|--------|
-| 1 | Sister | H | Unknown | Passed away |
-| 2 | Ramany | H | Gopi | Living |
-| 3 | Saraswathi (Sarasu) | H | Unni | Living |
-| 4 | Raji | H | Omanakuttan | Living |
-| 5 | Ambika | H | Bhaskara | Living |
-| 6 | Raju | W | Latha | Living |
-| 7 | Renjith (Renju) | W | Meera | Living |
+| # | Name | Spouse | Spouse Name | Status | Notes |
+|---|------|--------|-------------|--------|-------|
+| 1 | Ammani | H | Narayanan | Passed away | Ammani died in 1998 |
+| 2 | Ramany | H | Gopi | Living | - |
+| 3 | Saraswathi (Sarasu) | H | Unni | Living | - |
+| 4 | Raji | H | Omanakuttan | Passed away | - |
+| 5 | Ambika | H | Bhaskara | Living | - |
+| 6 | Raju | W | Latha | Living | - |
+| 7 | Renjith (Renju) | W | Meera | Living | - |
 
 ## Generation 2: Children
 
@@ -79,9 +79,9 @@
 
 ## Notes
 
-- Sibling #1: Both passed away, names not recorded
+- Ammani (Sibling #1): Married to Narayanan; Both passed away. Ammani died in 1998.
 - Raji & Omanakuttan: Both passed away
 - Sarasu's daughters mapped with complete family details
 - Raji's children mapped with grandchildren info
 - Ambika's sons mapped (working abroad on oil rigs)
-- More siblings' children to be added
+- More siblings' children to be added (Ramany, Raju, Renjith)
