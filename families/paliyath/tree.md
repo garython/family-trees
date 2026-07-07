@@ -35,6 +35,14 @@
 | Abhi | W | Divya | Works on oil rig in Indonesia |
 | Anish | W | Reshma | Works on oil rig in Brunei; Spouse is Teacher |
 
+### Raju & Latha
+
+| Child | Spouse | Spouse Name | Notes |
+|-------|--------|-------------|-------|
+| Sreejith | W | Kajal | Spouse from Nagpur |
+| Sreejesh | - | - | PhD in Astrology |
+| Seehari | - | - | Cloth shop |
+
 ## Generation 3: Grandchildren
 
 ### Manoj & Renuka's Children
@@ -77,6 +85,12 @@
 |------|-----|-------|
 | Amaya | 2 years | Child |
 
+### Sreejith & Kajal's Children
+
+| Name | Age | Notes |
+|------|-----|-------|
+| Vaidehi | Born 2026 | Daughter |
+
 ## Notes
 
 - Ammani (Sibling #1): Married to Narayanan; Both passed away. Ammani died in 1998.
@@ -84,4 +98,5 @@
 - Sarasu's daughters mapped with complete family details
 - Raji's children mapped with grandchildren info
 - Ambika's sons mapped (working abroad on oil rigs)
-- More siblings' children to be added (Ramany, Raju, Renjith)
+- Raju's 3 sons mapped (Sreejesh has PhD in Astrology, Seehari owns cloth shop)
+- More siblings' children to be added (Ramany, Renjith)
