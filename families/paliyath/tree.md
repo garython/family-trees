@@ -43,6 +43,16 @@
 | Sreejesh | - | - | PhD in Astrology |
 | Seehari | - | - | Cloth shop |
 
+### Renjith (Renju) & Meera
+
+| Child | Spouse | Spouse Name | Notes |
+|-------|--------|-------------|-------|
+| Ajay | GF | Abhirami (Aami) | In Canada; Works for Toyota; GF works in social service (handicap home) |
+| Ajith | - | - | Was in IT; Changing profession |
+| Anjitha | - | - | Girl; Studying for nursing |
+
+**Meera's Profession:** Clerk in Medical College
+
 ## Generation 3: Grandchildren
 
 ### Manoj & Renuka's Children
@@ -91,6 +101,10 @@
 |------|-----|-------|
 | Vaidehi | Born 2026 | Daughter |
 
+### Ajay & Abhirami (Aami) - Girlfriend
+
+Not yet married; Relationship in progress.
+
 ## Notes
 
 - Ammani (Sibling #1): Married to Narayanan; Both passed away. Ammani died in 1998.
@@ -99,4 +113,5 @@
 - Raji's children mapped with grandchildren info
 - Ambika's sons mapped (working abroad on oil rigs)
 - Raju's 3 sons mapped (Sreejesh has PhD in Astrology, Seehari owns cloth shop)
-- More siblings' children to be added (Ramany, Renjith)
+- Renjith's 3 children mapped (Ajay in Canada, working on career change for Ajith)
+- Ramany's details still to be added
