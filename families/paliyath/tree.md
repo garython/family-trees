@@ -28,6 +28,13 @@
 | Manjasha | H | Haridas | Teacher; Spouse works in Kuwait |
 | Manoj | W | Swati | - |
 
+### Ambika & Bhaskaran
+
+| Child | Spouse | Spouse Name | Notes |
+|-------|--------|-------------|-------|
+| Abhi | W | Divya | Works on oil rig in Indonesia |
+| Anish | W | Reshma | Works on oil rig in Brunei; Spouse is Teacher |
+
 ## Generation 3: Grandchildren
 
 ### Manoj & Renuka's Children
@@ -57,10 +64,24 @@
 |------|-------|
 | Newborn Baby | Born 2026 |
 
+### Abhi & Divya's Children
+
+| Name | Year/Grade | Notes |
+|------|-----------|-------|
+| Adwit | - | Child |
+| Adidev | Year 4 | School |
+
+### Anish & Reshma's Children
+
+| Name | Age | Notes |
+|------|-----|-------|
+| Amaya | 2 years | Child |
+
 ## Notes
 
 - Sibling #1: Both passed away, names not recorded
 - Raji & Omanakuttan: Both passed away
 - Sarasu's daughters mapped with complete family details
 - Raji's children mapped with grandchildren info
+- Ambika's sons mapped (working abroad on oil rigs)
 - More siblings' children to be added
