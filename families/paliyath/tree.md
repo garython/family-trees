@@ -14,9 +14,31 @@
 
 ## Generation 2: Children
 
-*(To be filled)*
+### Sarasu & Unni's Family
+
+| Child | Spouse | Spouse Name | Location | Notes |
+|-------|--------|-------------|----------|-------|
+| Renuka | H | Manoj | - | Employer: Veda5 |
+| Chitra | H | Krishnadas | Guruvayoor | Spouse works in Oman |
+
+## Generation 3: Grandchildren
+
+### Manoj & Renuka's Children
+
+| Name | Year/Grade | Notes |
+|------|-----------|-------|
+| Ananthu | BBA | Studying at Bethany College |
+| Gokul | Year 7 | School |
+
+### Krishnadas & Chitra's Children
+
+| Name | Year/Grade | Notes |
+|------|-----------|-------|
+| Shri Lakshmi | Year 6 | School |
+| Shri Nanda | Year 3 | School |
 
 ## Notes
 
 - Sibling #1: Both passed away, names not recorded
-- Status updates and additional details to follow
+- Sarasu's daughters now mapped with complete family details
+- More siblings' children to be added
