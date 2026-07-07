@@ -21,6 +21,13 @@
 | Renuka | H | Manoj | - | Employer: Veda5 |
 | Chitra | H | Krishnadas | Guruvayoor | Spouse works in Oman |
 
+### Raji (Late) & Omanakuttan (Late)
+
+| Child | Spouse | Spouse Name | Notes |
+|-------|--------|-------------|-------|
+| Manjasha | H | Haridas | Teacher; Spouse works in Kuwait |
+| Manoj | W | Swati | - |
+
 ## Generation 3: Grandchildren
 
 ### Manoj & Renuka's Children
@@ -37,8 +44,23 @@
 | Shri Lakshmi | Year 6 | School |
 | Shri Nanda | Year 3 | School |
 
+### Haridas & Manjasha's Children
+
+| Name | Notes |
+|------|-------|
+| Harshid | Child |
+| Hridith | Child |
+
+### Manoj & Swati's Children
+
+| Name | Notes |
+|------|-------|
+| Newborn Baby | Born 2026 |
+
 ## Notes
 
 - Sibling #1: Both passed away, names not recorded
-- Sarasu's daughters now mapped with complete family details
+- Raji & Omanakuttan: Both passed away
+- Sarasu's daughters mapped with complete family details
+- Raji's children mapped with grandchildren info
 - More siblings' children to be added
