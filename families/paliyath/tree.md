@@ -1,12 +1,23 @@
 # Paliyath Family Tree
 
+**Ancestral home:** Thathanath
+
+## Generation 0: Parents
+
+| Name | Role |
+|------|------|
+| Raghavan Nair | Father |
+| Parukuttyamma | Mother |
+
 ## Generation 1: Siblings
+
+Listed in order of birth (birth years not known).
 
 | # | Name | Spouse | Spouse Name | Status | Notes |
 |---|------|--------|-------------|--------|-------|
 | 1 | Ammani | H | Narayanan | Both passed away | Ammani died in 1998 |
 | 2 | Ramany | H | Gopi | Living | Gopi: Professor, University of Guelph, Ontario |
-| 3 | Saraswathi (Sarasu) | H | Unni | Living | - |
+| 3 | Saraswathi (Sarasu) | H | Unni | Living | Live near Thathanath; Unni worked at SBT (State Bank of Travancore) |
 | 4 | Raji | H | Omanakuttan | Both passed away | - |
 | 5 | Ambika | H | Bhaskaran | Living | - |
 | 6 | Raju | W | Latha | Living | - |
@@ -23,7 +34,7 @@ No children.
 | Child | Spouse | Spouse Name | Notes |
 |-------|--------|-------------|-------|
 | Raghesh (Tutu) | - | - | Passed away (19??); came to Canada in 1986 while in Year 4 |
-| Surya | H | Manish | - |
+| Surya | H | Manish | Live in Guelph; Surya: Teacher, Manish: Physiotherapist |
 | Vasanth (Vas) | W | Adrianne | See Adrianne's extended family below |
 
 #### Ramany & Gopi — Timeline
@@ -42,7 +53,7 @@ No children.
 
 | Child | Spouse | Spouse Name | Location | Notes |
 |-------|--------|-------------|----------|-------|
-| Renuka | H | Manoj | - | Renuka works at Veda5 |
+| Renuka | H | Manoj | Near Thathanath | Renuka works at Veda5 |
 | Chitra | H | Krishnadas | Guruvayoor | Krishnadas works in Oman |
 
 ### #4 Raji (Late) & Omanakuttan (Late)
@@ -64,16 +75,16 @@ No children.
 | Child | Spouse | Spouse Name | Notes |
 |-------|--------|-------------|-------|
 | Sreejith | W | Kajal | Kajal is from Nagpur |
-| Sreejesh | - | - | PhD in Astrology |
-| Seehari | - | - | Runs a cloth shop |
+| Sreejesh | - | - | PhD in Astrology; not married |
+| Seehari | - | - | Runs a cloth shop; not married |
 
 ### #7 Renjith (Renju) & Meera
 
 | Child | Partner | Partner Name | Notes |
 |-------|---------|--------------|-------|
 | Ajay | GF | Abhirami (Aami) | In Canada, works for Toyota; Aami works in social service at a handicap home |
-| Ajith | - | - | Was in IT; changing profession |
-| Anjitha | - | - | Studying nursing |
+| Ajith | - | - | Was in IT; changing profession; not married |
+| Anjitha | - | - | Studying nursing; not married |
 
 ## Generation 3: Grandchildren
 
@@ -145,7 +156,13 @@ No children.
 - **Eric**, married to Kim — live in Toronto
   - Eric works in media production
 
+## Relation to This Record
+
+Girish (maintainer of this tree) is Manish's brother — connected via Surya (Ramany & Gopi's daughter).
+
 ## Open Items
 
+- Sibling birth years — not known
 - Raghesh's year of death — not known clearly at this time
 - Manoj & Swati's 2026 baby — name needed
+- Narayanan's (Ammani's husband) year of death — unknown
