@@ -63,6 +63,20 @@
 
 **Gopi's Profession:** Professor at University of Guelph, Ontario
 
+#### Timeline & Life History
+
+| Year | Event |
+|------|-------|
+| 1981 | Gopi came to Washington DC University as postdoc |
+| 1981-82 | Gopi had health issues, returned to India |
+| 1982 | Gopi came back to US |
+| 1983 | Ramany came to US to join Gopi |
+| 1984 | Moved to Waterloo, Ontario; Gopi took postdoc position at University of Guelph |
+| 1984-2009 | Gopi worked on research contracts |
+| ~1990s | Lived near Conestoga Mall in a townhouse |
+| Early 2000s | Bought house on Eastbridge Boulevard |
+| 2009 | Gopi achieved tenure, became Professor at University of Guelph |
+
 ## Generation 3: Grandchildren
 
 ### Manoj & Renuka's Children
