@@ -53,6 +53,16 @@
 
 **Meera's Profession:** Clerk in Medical College
 
+### Ramany & Gopi
+
+| Child | Spouse | Spouse Name | Notes |
+|-------|--------|-------------|-------|
+| Raghesh (Tutu) | - | - | Passed away (19??); Came to Canada in 1986 (Year 4) |
+| Surya | H | Manish | - |
+| Vasanth (Vas) | W | Adrianne | - |
+
+**Gopi's Profession:** Professor at University of Guelph, Ontario
+
 ## Generation 3: Grandchildren
 
 ### Manoj & Renuka's Children
@@ -105,13 +115,38 @@
 
 Not yet married; Relationship in progress.
 
+### Manish & Surya's Children
+
+| Name | DOB | Notes |
+|------|-----|-------|
+| Anushka | June 6, 2014 | Daughter |
+
+### Adrianne & Vasanth's Children
+
+| Name | DOB | Notes |
+|------|-----|-------|
+| Rowen | December 31, 2015 | Daughter |
+
+## Extended Family: Adrianne's Family
+
+**Parents:**
+- Paul
+- Henriette
+
+**Siblings:**
+- **Laura** married to Clarence (live in Edmonton)
+  - 2 daughters: Gabby (elder), Tiana (younger)
+- **Eric** married to Kim (live in Toronto)
+  - Profession: Media production
+
 ## Notes
 
 - Ammani (Sibling #1): Married to Narayanan; Both passed away. Ammani died in 1998.
 - Raji & Omanakuttan: Both passed away
+- Raghesh (Ramany's son): Passed away in 19?? (year unknown); Emigrated to Canada in 1986
 - Sarasu's daughters mapped with complete family details
 - Raji's children mapped with grandchildren info
 - Ambika's sons mapped (working abroad on oil rigs)
 - Raju's 3 sons mapped (Sreejesh has PhD in Astrology, Seehari owns cloth shop)
 - Renjith's 3 children mapped (Ajay in Canada, working on career change for Ajith)
-- Ramany's details still to be added
+- **All 7 siblings and their families now mapped** - Paliyath Generation 1 complete
