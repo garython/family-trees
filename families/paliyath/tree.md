@@ -16,7 +16,7 @@
 
 ### #1 Ammani & Narayanan
 
-Children unknown — to be added.
+No children.
 
 ### #2 Ramany & Gopi
 
@@ -127,7 +127,7 @@ Children unknown — to be added.
 
 | Name | Age | Notes |
 |------|-----|-------|
-| Amaya | 2 years | Reported as 2 kids — second child's name to be confirmed |
+| Amaya | 2 years | Only child |
 
 ### Sreejith & Kajal (via Raju)
 
@@ -147,7 +147,5 @@ Children unknown — to be added.
 
 ## Open Items
 
-- Ammani & Narayanan's children — unknown
-- Raghesh's year of death — 19?? (year unknown)
-- Anish & Reshma's second child — name/age needed
+- Raghesh's year of death — not known clearly at this time
 - Manoj & Swati's 2026 baby — name needed
